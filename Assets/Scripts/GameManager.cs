@@ -7,7 +7,7 @@ using TMPro;
 public class GameManager : MonoBehaviour
 {
     public float timeToWait = 1f;
-    //
+    
     [Header("References")]
     public BallBase ball;
     public List<PlayerController> player;
